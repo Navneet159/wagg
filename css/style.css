@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  height: 600px;
+  background: red;
+}
+
+.main {
+  width: 1170px;
+  height: 300px;
+  margin: auto;
+  background: blue;
+  padding-top: 10px;
+}
+
+.test {
+  width: auto;
+  height: 60px;
+  border: 2px solid white;
+
+  background: green;
+}
